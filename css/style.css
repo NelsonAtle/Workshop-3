@@ -1,0 +1,59 @@
+*{
+	margin:0;
+	padding:0;
+}
+ 
+#header{
+	margin-top: 1%;
+	margin-left:1%;
+}
+
+#titulo{
+	font-family:'verdana';
+	font-style: oblique;
+}
+
+#frase{
+	font-family:'verdana';
+	font-style: oblique;
+}
+#frase2{
+	font-family:'verdana';
+	margin-left:1%;
+	padding-right: 715px;
+}
+#parrafo1{
+	font-family:'verdana';
+	font-size: 13px;
+}
+
+#img2{
+padding-right:345px;
+margin-top:-40px;
+
+}
+
+#parrafo2{
+	font-family:'verdana';
+	font-size: 13px;
+	padding-left:15px;
+	padding-top:15px;
+	padding-right: 725px;
+}
+
+hr.v{
+width: 1px;
+height: 650px;
+margin-left: 630px;
+margin-top: -615px;
+}
+
+#frase3{
+	font-family:'verdana';
+	margin-left:1%;
+	padding-right: 715px;
+}
+
+li{
+	margin-left: 55px;
+}
