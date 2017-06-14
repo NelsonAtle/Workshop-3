@@ -57,3 +57,15 @@ margin-top: -615px;
 li{
 	margin-left: 55px;
 }
+
+h4,h1{
+	color:  #626567 ;
+}
+
+.lista>li{
+	color:  #a93226 ;
+}
+
+ul.lista{
+  font-size: 25px;
+}
